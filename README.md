@@ -1,6 +1,6 @@
 WELSH COLOUR FLASHCARD CLI
 
-A simple command-line flashcard application built in Python to practice Welsh colour vocabulary.
+A command-line flashcard application built in Python to practice Welsh colour vocabulary.
 
 This project was developed as part of my learning journey in Software Development and demonstrates core Python programming concepts.
 
